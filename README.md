@@ -1,6 +1,6 @@
 # Stopwatch
 
-## Hoisted Link 👇
+## Hosted Link 👇
 
 ## [Stopwatch Link](https://ugamraj.github.io/Stopwatch/)
 
